@@ -25,8 +25,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: Fixed (460px)px;
-    height: Hug (312px)px;
+    width: 460px;
+    height: 312px;
     padding: 24px 40px 40px 40px;
     gap: 48px;
     border-radius: 17px 0px 0px 0px;
@@ -44,8 +44,8 @@
 }
 
 .signup-container {
-    width: Fill (380px)px;
-    height: Hug (48px)px;
+    width: 380px;
+    height: 48px;
     padding: 8px 16px 8px 16px;
     gap: 10px;
     border-radius: 4px 0px 0px 0px;
@@ -91,8 +91,8 @@
 }
 
 .createaccountbtn-container {
-    width: Fill (380px)px;
-    height: Hug (97px)px;
+    width: 380px;
+    height: 97px;
     gap: 24px;
     opacity: 0px;
 
@@ -120,8 +120,8 @@
 
 
 .create-ac-btn {
-    width: Hug (195px)px;
-    height: Hug (48px)px;
+    width: 195px;
+    height: 48px;
     padding: 13px 35px 13px 35px;
     gap: 10px;
     border-radius: 4px 0px 0px 0px;
@@ -133,5 +133,6 @@
     line-height: 21.7px;
     text-align: left;
     color: #FFFFFF;
+    margin-top: 30px;
 
 }
